@@ -20,8 +20,8 @@ A complete, production-ready video calling solution for Flutter using Agora SDK.
 
 ## 🎥 Demo
 
-https://github.com/your-username/assets/agora-demo.mp4  
-*(Replace with your actual demo video)*
+
+
 
 ## 🚀 Quick Setup
 
